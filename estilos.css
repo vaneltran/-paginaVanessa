@@ -1,0 +1,151 @@
+body{
+    margin: 0px ;
+}
+.redes-sociales{
+
+    background-color: rgb(211, 96, 196);
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:slategrey;
+}
+
+.contenedor-redes a{
+ color: white;
+}
+
+.contenedor-redes i{
+    margin-right: 15px;
+}
+
+
+nav{
+    height: 75px;
+    background-color:rgb(177, 92, 165);
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+
+}
+nav .logotipo-header img{
+    height: 60px;
+}
+
+nav .menu-navegacion ul{
+    display: flex;
+    list-style: none;
+    font-family: Impact;
+}
+
+.menu-navegacion a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+
+.titulo{
+    color:rgb(211, 96, 196);
+    font-size: 30px;;
+    font-family: impact;
+    justify-content: center;
+    display: flex;
+}
+
+.presenta{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+.texto{
+    font-family: impact;
+    font-size: 20px;
+}
+
+.bloques{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+
+.bloque{
+    text-align:center;
+    font-family: Impact;
+    font-size: 15px;
+    margin: 15px;
+}
+
+.bloque button{
+    text-decoration: none;
+    background-color:rgb(177, 92, 165);
+    color: white;
+    font-size: 30px;
+    font-family: Impact;
+    margin: 0px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+button a{
+    text-decoration: none;
+    color: white;
+}
+
+.ejemplos{
+    display: flex;
+    justify-content: center;
+}
+
+.mas{
+    background-color: rgb(211, 96, 196);
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.mas a{
+    text-decoration: none;
+    color: white;
+    font-family: Impact;
+    font-size: 30px;
+}
+
+.comprar h1{
+    font-family: Impact;
+    font-size: 30px;
+    color:rgb(211, 96, 196);
+    margin: 100px;
+    text-align: center;
+}
+
+.redes-sociales2{
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(211, 96, 196);
+}
+
+.contenedor-redes2 a{
+ color: rgb(211, 96, 196);
+ font-size: 75px;
+}
+
+.contenedor-redes2 i{
+    margin-right: 15px;
+}
+
+.perfil{
+    text-align: center;
+    margin: 20px;
+}
+
+.extrainfo{
+    font-family: Impact;
+    color:rgb(211, 96, 196);
+    font-size: 20px;
+    text-align: center;
+}
